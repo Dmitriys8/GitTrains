@@ -17,5 +17,8 @@ class MyClass{
         return;
     }
 
+    public static int getNumberOfObjects(){
+        return numberOfObjects;
+    }
 }
 
